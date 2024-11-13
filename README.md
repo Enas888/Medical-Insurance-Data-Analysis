@@ -1,10 +1,10 @@
-### Medical-Insurance-Data-Analysis
-# Business Objective:
+# Medical-Insurance-Data-Analysis
+## Business Objective:
 Explore how demographic and lifestyle factors relate to medical costs.
 Identify correlations between features like age, BMI, smoking status, and region with medical expenses.
 Use visualizations to highlight key patterns and trends in healthcare spending.
 
-# Business Value:
+## Business Value:
 Provide insights for healthcare providers and insurers to understand cost drivers.
 Help in making data-informed decisions for resource allocation and wellness programs.
 Support policymakers in designing fair and effective healthcare cost-management strategies.
@@ -14,11 +14,13 @@ Determine the annual insurance premium (amount paid every month) offered to the 
 
 - **In the analysis between charges, age, and smoker, it is evident that as age increases, medical costs also tend to rise. Additionally, smokers exhibit significantly higher medical charges compared to non-smokers, which may be attributed to the increased health risks and healthcare needs associated with smoking. This highlights the compounded effect of age and smoking on medical costs.**
 
+  
+
 ![image](https://github.com/user-attachments/assets/61c76a63-c1fd-4bd0-8154-70d396120e81)
 
 - **The analysis between charges, BMI, and smoker yields similar insights to the previous comment. As BMI increases, so do the medical costs, particularly for smokers, who show higher charges across various BMI categories. This further emphasizes the influence of both BMI and smoking on health-related expenses, suggesting that individuals with higher BMI values and those who smoke may face significantly higher healthcare costs.**
 
-# Key Takeaways:
+### Key Takeaways:
 Medical Costs and Age:
 
 As age increases, medical costs tend to rise. Older individuals generally face higher healthcare expenses, reflecting the greater healthcare needs associated with aging.

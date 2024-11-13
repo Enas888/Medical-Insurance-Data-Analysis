@@ -36,3 +36,9 @@ Both age and smoking contribute to higher medical costs. Smokers experience high
 Data Distribution:
 
 BMI data follows a normal distribution, and due to limited data for the underweight category, it is challenging to analyze its effect on medical costs. However, the overweight and obese categories offer ample data for further exploration of their relationship with healthcare expenses.
+
+code in kaggle: https://www.kaggle.com/code/enasemad/medical-insurance-data-analysis
+
+
+
+

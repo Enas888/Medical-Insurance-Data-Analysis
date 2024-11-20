@@ -10,6 +10,12 @@ Help in making data-informed decisions for resource allocation and wellness prog
 Support policymakers in designing fair and effective healthcare cost-management strategies.
 Determine the annual insurance premium (amount paid every month) offered to the customer.r.
 
+## PowerBI - Introductory Page:
+
+![image](https://github.com/user-attachments/assets/c5619d86-fc0b-43f1-8869-6d8f1d1e24f2)
+
+## Visualizations:
+
 ![image](https://github.com/user-attachments/assets/79e9d048-98b3-4028-b14a-7dc82f28a590)
 
 - **In the analysis between charges, age, and smoker, it is evident that as age increases, medical costs also tend to rise. Additionally, smokers exhibit significantly higher medical charges compared to non-smokers, which may be attributed to the increased health risks and healthcare needs associated with smoking. This highlights the compounded effect of age and smoking on medical costs.**
@@ -18,7 +24,7 @@ Determine the annual insurance premium (amount paid every month) offered to the 
 
 ![image](https://github.com/user-attachments/assets/61c76a63-c1fd-4bd0-8154-70d396120e81)
 
-- **The analysis between charges, BMI, and smoker yields similar insights to the previous comment. As BMI increases, so do the medical costs, particularly for smokers, who show higher charges across various BMI categories. This further emphasizes the influence of both BMI and smoking on health-related expenses, suggesting that individuals with higher BMI values and those who smoke may face significantly higher healthcare costs.**
+- **The analysis between charges, BMI, and smokers yields similar insights to the previous comment. As BMI increases, so do the medical costs, particularly for smokers, who show higher charges across various BMI categories. This further emphasizes the influence of both BMI and smoking on health-related expenses, suggesting that individuals with higher BMI values and those who smoke may face significantly higher healthcare costs.**
 
 ### Key Takeaways:
 Medical Costs and Age:
@@ -29,7 +35,7 @@ Medical Costs and Smoking:
 Smokers exhibit significantly higher medical costs compared to non-smokers, suggesting that smoking contributes to increased health risks and higher healthcare expenditures.
 BMI and Medical Costs:
 
-BMI shows a positive correlation with medical costs, with higher BMI values linked to increased healthcare expenses. The most pronounced increase in costs occurs within the overweight and obese BMI ranges.
+BMI positively correlates with medical costs, with higher BMI values linked to increased healthcare expenses. The most pronounced cost increase occurs within the overweight and obese BMI ranges.
 Interaction between Age, BMI, and Smoking:
 
 Both age and smoking contribute to higher medical costs. Smokers experience higher charges across different age groups and BMI categories, emphasizing the combined impact of these factors on healthcare expenses.

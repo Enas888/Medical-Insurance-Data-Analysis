@@ -14,6 +14,9 @@ Determine the annual insurance premium (amount paid every month) offered to the 
 
 ![image](https://github.com/user-attachments/assets/c5619d86-fc0b-43f1-8869-6d8f1d1e24f2)
 
+link to the full PowerBI file (https://drive.google.com/file/d/1WNdwxzkvDsUudx5j0U6N1s1G5cgE2fb_/view)
+
+
 ## Visualizations:
 
 ![image](https://github.com/user-attachments/assets/79e9d048-98b3-4028-b14a-7dc82f28a590)
